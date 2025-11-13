@@ -1,0 +1,204 @@
+/* ---------- Base ---------- */
+:root {
+  --bg: #ffffff;
+  --text: #111418;
+  --muted: #5f6b7a;
+  --accent: #1a73e8;
+  --accent-dark: #1558b0;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif;
+  line-height: 1.6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ---------- Layout ---------- */
+.container {
+  width: min(900px, 100% - 2rem);
+  margin-inline: auto;
+  padding-block: 2rem;
+}
+
+.site-header {
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 1rem;
+}
+
+.brand {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--text);
+}
+
+nav a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: var(--text);
+}
+
+nav a:hover,
+nav a:focus-visible {
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: clamp(1.8rem, 2.6vw, 2.4rem);
+}
+
+h2 {
+  font-size: clamp(1.3rem, 2.0vw, 1.7rem);
+}
+
+h3 {
+  font-size: 1.05rem;
+}
+
+.lead {
+  color: var(--muted);
+}
+
+/* ---------- Home layout ---------- */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.hero-main {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.hero-photo {
+  width: 200px;
+  max-width: 60vw;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-inline: auto;
+}
+
+.hero-meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.hero-links {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 0.8rem;
+}
+
+.hero-links img {
+  width: 36px;
+  height: 36px;
+}
+
+/* ---------- Recent work ---------- */
+.recent-work h2 {
+  margin-top: 0;
+}
+
+.recent-item {
+  margin-bottom: 1.4rem;
+}
+
+.recent-item h3 {
+  margin: 0 0 0.1rem 0;
+}
+
+.recent-meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin:0;  
+}
+
+.recent-actions a {
+  margin-right: 0.75rem;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-block;
+  padding: 0.35rem 0.85rem;
+  border-radius: 20px;          /* pill-box round like your current site */
+  background: #f5f5f5;          /* light gray background */
+  color: #333;                  /* dark gray text */
+  border: 1px solid #ccc;       /* subtle border */
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.btn:hover,
+.btn:focus-visible {
+  background: #e6e6e6;          /* slightly darker hover */
+  border-color: #b3b3b3;
+  color: #000;
+}
+
+/* ---------- Publications ---------- */
+.pubs .pub {
+  margin-block: 1.2rem 1.6rem;
+}
+
+.pubs .pub h3 {
+  margin: 0 0 0.3rem 0;
+}
+
+.pubs .pub p {
+  margin: 0.1rem 0;
+}
+
+.pubs .actions a {
+  margin-right: 0.5rem;
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  border-top: 1px solid #eee;
+  background: #fff;
+  color: var(--muted);
+}
+
+.site-footer .container {
+  padding-block: 1rem;
+  font-size: 0.85rem;
+}
+
+/* ---------- Small screens ---------- */
+@media (min-width: 640px) {
+  .hero {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
+  .hero-photo {
+    margin-inline: 0;
+  }
+}

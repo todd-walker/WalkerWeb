@@ -1,0 +1,9 @@
+@TechReport{BJMW:DataMethods:2024,        
+    author      =   {Connor M. Brennan, Margaret M. Jacobson, Christian Matthes and Todd B. Walker},
+    title       =   {Monetary Policy Shocks: Data or Methods?},
+    year        =   {2024},
+    number      =   {11}, 
+    institution =   {Finance and Economics Discussion Paper Series}, 
+    doi         =   {https://doi.org/10.17016/FEDS.2024.011}
+}
+

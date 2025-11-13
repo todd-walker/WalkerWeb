@@ -1,0 +1,7 @@
+@TechReport{RW:Equivalence,        
+	author      =   {Giacomo Rondina and Todd B. Walker},
+        title       =   {Dispersed and Hierarchical Economies with Dynamic Signal Extraction: An Equivalence Result},
+	year        =   {2023},
+        month       =   {November}, 
+	institution =   {Indiana University Working Paper}
+}

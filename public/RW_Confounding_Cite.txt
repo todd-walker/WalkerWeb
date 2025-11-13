@@ -1,0 +1,10 @@
+@article{RW:Confounding,
+    title   = {Confounding Dynamics},
+    journal = {Journal of Econmic Theory},
+    volume  = {196},
+    number  = {8},
+    pages   = {105251},
+    year    = {2021},
+    doi     = {https://doi.org/10.1016/j.jet.2021.105251},
+    author  = {Giacomo Rondina and Todd B. Walker}
+}
