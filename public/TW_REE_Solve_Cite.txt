@@ -1,0 +1,9 @@
+@Article{TW:RE_Solve:2015,
+    author = {Hui Tan and Todd B. Walker},
+    title = {Solving generalized multivariate linear rational expectations models},
+    journal = {Journal of Economic Dynamics and Control},
+    year = {2015},
+    volume = {61},
+    pages = {1--18},
+    doi = {10.1016/j.jedc.2015.07.007}
+}

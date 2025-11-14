@@ -1,0 +1,10 @@
+@Article{KW:HetBeliefs:2014,
+    author = {Kenneth Kasa and Todd B. Walker and Charles H. Whiteman},
+    title = {Heterogeneous Beliefs and Tests of Present Value Models},
+    journal = {Review of Economic Studies},
+    year = {2014},
+    volume = {81},
+    number = {3},
+    pages = {1137-1163},
+    doi = {10.1093/restud/rdt051}
+}

@@ -1,0 +1,9 @@
+@Article{SW:FinancialFrictions:2016,
+    author = {Hyunduk Suh and Todd B. Walker},
+    title = {Taking financial frictions to the data},
+    journal = {Journal of Economic Dynamics and Control},
+    year = {2016},
+    volume = {64},
+    pages = {39--65},
+    doi = {10.1016/j.jedc.2015.12.001}
+}
