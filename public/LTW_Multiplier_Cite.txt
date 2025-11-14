@@ -1,0 +1,10 @@
+@Article{LTW:Multiplier:2017,
+    author      =   {Eric M. Leeper and Nora Traum and Todd B. Walker},
+    title       =   {Clearing Up the Fiscal Multiplier Morass},
+    journal     =   {American Economic Review},
+    year        =   {2017},
+    volume      =   {107},
+    issue       =   {8},
+    pages       =   {2409-54},
+    doi         =   {10.1257/aer.20111196}
+}

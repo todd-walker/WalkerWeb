@@ -1,0 +1,10 @@
+@Article{Walker:IT:2018,
+    author      =   {Walker, Todd B.},
+    title       =   {Inflation Targeting in Emerging Economies},
+    journal     =   {Ensayos sobre Política Económica},
+    year        =   {2018},
+    volume      =   {36},
+    issue       =   {85 (Special Issue)},
+    pages       =   {7-21},
+    doi         =   {10.32468/espe.8501}
+}

@@ -1,0 +1,7 @@
+@TechReport{MMW:Identify:2025,        
+    author      =   {Christian Matthes, Vladimir Menshikov and Todd B. Walker},
+    title       =   {Some Pitfalls of Instrument-Based Infererence in Structural VARs},
+    year        =   {2025},
+    month       =   {November}
+}
+

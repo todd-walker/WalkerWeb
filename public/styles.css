@@ -77,7 +77,7 @@ h3 {
 }
 
 .lead {
-  color: var(--muted);
+  color: var(--text);
 }
 
 /* ---------- Home layout ---------- */
@@ -104,7 +104,7 @@ h3 {
 }
 
 .hero-meta {
-  color: var(--muted);
+  color: var(--text);
   font-size: 0.95rem;
 }
 
@@ -134,7 +134,7 @@ h3 {
 }
 
 .recent-meta {
-  color: var(--muted);
+  color: var(--text);
   font-size: 0.95rem;
   margin:0;  
 }

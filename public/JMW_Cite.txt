@@ -1,8 +1,7 @@
-@TechReport{JMW:TempAgg:2024,        
-	author      =   {Margaret M. Jacobson, Christian Matthes and Todd B. Walker},
-        title       =   {Temporal Aggregation Bias and Monetary Policy Transmission},
-	year        =   {2024},
-        number      =   {54}, 
-	institution =   {Finance and Economics Discussion Paper Series}, 
-        doi         =   {https://doi.org/10.17016/FEDS.2022.054r1}
+@Article{JMW:TempAgg:2025,
+    author      =   {Margaret M. Jacobson and Christian Matthes},
+    title       =   {Temporal Aggregation Bias and Monetary Policy Transmission},
+    journal     =   {Journal of Political Economy Macroeconomics},
+    year        =   {2025},
+    note        =   {Forthcoming}
 }

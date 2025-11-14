@@ -1,10 +1,9 @@
-@article{RW:Learning:16,
-    title   = {Learning and Informational Stability of Dynamic REE with Incomplete Information},
-    journal = {Review of Economic Dynamics},
-    volume  = {21},
-    month   = {July},
-    pages   = {147-159},
-    year    = {2016},
-    doi     = {https://doi.org/10.1016/j.red.2015.04.002},
-    author  = {Giacomo Rondina and Todd B. Walker}
+@Article{RW:Learning:2016,
+    author      =   {Giacomo Rondina and Todd B. Walker},
+    title       =   {Learning and informational stability of dynamic REE with incomplete information},
+    journal     =   {Review of Economic Dynamics},
+    year        =   {2016},
+    volume      =   {21},
+    pages       =   {147-159},
+    doi         =   {10.1016/j.red.2015.03.003}
 }

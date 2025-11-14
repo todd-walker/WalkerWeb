@@ -1,0 +1,9 @@
+@Article{FWW:CBDC:2025,
+    author      =   {Rong Fan and Todd B. Walker and Allan Wright},
+    title       =   {Central bank digital currency in small open economies},
+    journal     =   {Latin American Journal of Central Banking},
+    year        =   {2025},
+    volume      =   {6},
+    issue       =   {2},
+    doi         =   {10.1016/j.latcb.2024.100151}
+}

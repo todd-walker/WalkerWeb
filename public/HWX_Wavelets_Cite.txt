@@ -1,10 +1,10 @@
-@article{HWX:Wavelets:,
-    title   = {Structural Asset Pricing Theory with Wavelets},
-    journal = {Quantitative Finance},
-    volume  = {19},
-    pages   = {1659-1672},
-    year    = {2019},
-    issn    = {0022-0531},
-    doi     = {https://www.tandfonline.com/doi/full/10.1080/14697688.2019.1594350},
-    author  = {Elizabeth Ann Housworth and Todd B. Walker and Chen Xu}
+@Article{HWX:Wavelets:2019,
+    author      =   {Elizabeth Ann Housworth and Todd B. Walker and Chen Xu},
+    title       =   {Structural asset pricing theory with wavelets},
+    journal     =   {Quantitative Finance},
+    year        =   {2019},
+    volume      =   {19},
+    issue       =   {10},
+    pages       =   {1659-1672},
+    doi         =   {10.1080/14697688.2019.1594350}
 }

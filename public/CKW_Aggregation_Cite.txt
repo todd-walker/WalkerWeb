@@ -1,0 +1,8 @@
+@Article{CKW:Aggregation:2022,
+    author      =   {Karsten O. Chipeniuk and Nets Hawk Katz and Todd B. Walker},
+    title       =   {Households, auctioneers, and aggregation},
+    journal     =   {European Economic Review},
+    year        =   {2022},
+    volume      =   {141},
+    doi         =   {10.1016/j.euroecorev.2021.103997}
+}

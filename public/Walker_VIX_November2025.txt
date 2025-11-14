@@ -1,0 +1,7 @@
+@TechReport{Walker:VIX:2025,
+    author      =   {Todd B. Walker},
+    title       =   {A Simple Alternative to the VIX for Understanding Macro Uncertainty},
+    year        =   {2025},
+    month       =   {November}
+}
+

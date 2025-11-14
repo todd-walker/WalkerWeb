@@ -1,0 +1,6 @@
+@TechReport{Walker:CBDC:2025,
+    author      =   {Sharon Branch, Yvonne Cooper, Cecilia Franco, Jon Frost, Priscilla Koo Wilkens, Lyu Yuan, Jamere McIntosh, Mu Changchun, Ta'Mar Phillip, Erica Salinas, Lynsey P Ward, Todd Walker and Allan Wright},
+    title       =   {Retail CBDCs in practice: the experience of the SandDollar, e-CNY and JAM-DEX},
+    year        =   {2025},
+    month       =   {August}
+}

@@ -1,0 +1,8 @@
+@Article{CW:Inflation:2021,
+    author      =   {Karsten O. Chipeniuk and Todd B. Walker},
+    title       =   {Forward inflation expectations: Evidence from inflation caps and floors},
+    journal     =   {Journal of Macroeconomics},
+    year        =   {2021},
+    volume      =   {70},
+    doi         =   {10.1016/j.jmacro.2021.103348}
+}
