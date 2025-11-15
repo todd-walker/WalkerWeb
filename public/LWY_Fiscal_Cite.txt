@@ -1,0 +1,9 @@
+@Article{LW:Fiscal:2013,
+    author = {Eric M. Leeper and Todd B. Walker and Shu-Chun Susan Yang},
+    title = {Fiscal Foresight and Information Flows},
+    journal = {Econometrica},
+    year = {2013},
+    volume = {81},
+    number = {3},
+    pages = {1115--1145}
+}

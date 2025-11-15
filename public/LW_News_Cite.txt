@@ -1,0 +1,10 @@
+@Article{LW:News:2011,
+    author = {Eric M. Leeper and Todd B. Walker},
+    title = {Information Flows and News Driven Business Cycles},
+    journal = {Review of Economic Dynamics},
+    year = {2011},
+    volume = {14},
+    number = {1},
+    pages = {55--71},
+    doi = {10.1016/j.red.2010.08.003}
+}

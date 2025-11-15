@@ -1,0 +1,9 @@
+@Article{RTW:PFI:2014,
+    author = {Alexander W. Richter and Nathan A. Throckmorton and Todd B. Walker},
+    title = {Accuracy, Speed and Robustness of Policy Function Iteration},
+    journal = {Computational Economics},
+    year = {2014},
+    volume = {44},
+    pages = {445--476},
+    doi = {10.1007/s10614-013-9399-2}
+}
