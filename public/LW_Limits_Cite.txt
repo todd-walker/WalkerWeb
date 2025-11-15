@@ -1,0 +1,10 @@
+@Article{LW:Limits:2011,
+    author = {Eric M. Leeper and Todd B. Walker},
+    title = {Fiscal Limits in Advanced Economies},
+    journal = {Economic Papers},
+    year = {2011},
+    volume = {30},
+    number = {1},
+    pages = {33--47},
+    doi = {10.1111/j.1759-3441.2011.00111.x}
+}

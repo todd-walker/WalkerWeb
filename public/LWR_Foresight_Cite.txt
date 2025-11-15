@@ -1,0 +1,10 @@
+@Article{LWR:FiscalForesight:2012,
+    author = {Eric M. Leeper and Alexander W. Richter and Todd B. Walker},
+    title = {Quantitative Effects of Fiscal Foresight},
+    journal = {American Economic Journal: Policy},
+    year = {2012},
+    volume = {4},
+    number = {2},
+    pages = {115--144},
+    doi = {10.1257/pol.4.2.115}
+}
