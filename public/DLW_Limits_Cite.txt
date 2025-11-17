@@ -1,0 +1,10 @@
+@Article{DLW:InflationFiscal:2011,
+    author = {Troy Davig and Eric M. Leeper and Todd B. Walker},
+    title = {Inflation and the fiscal limit},
+    journal = {European Economic Review},
+    year = {2011},
+    volume = {55},
+    number = {1},
+    pages = {31--47},
+    doi = {10.1016/j.euroecorev.2010.11.005}
+}

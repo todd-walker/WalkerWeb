@@ -1,0 +1,9 @@
+@Article{DLW:Unfunded:2010,
+    author = {Troy Davig and Eric M. Leeper and Todd B. Walker},
+    title = {``{U}nfunded liabilities'' and uncertain fiscal financing},
+    journal = {Journal of Monetary Economics},
+    year = {2010},
+    volume = {57},
+    number = {5},
+    pages = {600--619}
+}

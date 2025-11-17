@@ -1,0 +1,9 @@
+@Article{SSW:Rooney:2011,
+    author = {Benjamin Solow and John Solow and Todd B. Walker},
+    title = {Moving on up: The Rooney rule and minority hiring in the NFL},
+    journal = {Labour Economics},
+    year = {2011},
+    volume = {18},
+    number = {3},
+    pages = {332--337}
+}

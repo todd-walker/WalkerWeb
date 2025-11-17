@@ -1,0 +1,10 @@
+@Article{HW:AlternativeTilts:2010,
+    author = {M. Ryan Haley and Todd B. Walker},
+    title = {Alternative tilts for nonparametric option pricing},
+    journal = {Journal of Futures Markets},
+    year = {2010},
+    volume = {30},
+    number = {10},
+    pages = {983--1006},
+    doi = {10.1002/fut.20445}
+}
