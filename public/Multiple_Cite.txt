@@ -1,0 +1,9 @@
+@Article{W:RevealInformation:2007,
+    author = {Todd B. Walker and Charles H. Whiteman},
+    title = {Multiple equilibria in a simple asset pricing model},
+    journal = {Economics Letters},
+    year = {2007},
+    volume = {97},
+    number = {3},
+    pages = {191--196}
+}

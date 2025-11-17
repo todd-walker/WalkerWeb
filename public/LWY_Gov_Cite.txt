@@ -1,0 +1,10 @@
+@Article{BW:GovInvestmentFiscal:2010,
+    uthor = {Eric M. Leeper and Todd B. Walker and Shu-Chun Susan Yang},
+    title = {Government investment and fiscal stimulus},
+    journal = {Journal of Monetary Economics},
+    year = {2010},
+    volume = {57},
+    number = {8},
+    pages = {1000--1012},
+    doi = {10.1016/j.jmoneco.2010.09.002}
+}
