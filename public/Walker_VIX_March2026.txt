@@ -1,7 +1,0 @@
-@TechReport{Walker:VIX:2026,
-    author      =   {Todd B. Walker},
-    title       =   {Uncertainty Shocks are Downside Severity Shocks},
-    year        =   {2026},
-    month       =   {March}
-}
-
