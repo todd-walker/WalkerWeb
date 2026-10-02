@@ -1,4 +1,4 @@
-@TechReport{Walker:VIXAlt:May2026,
+@TechReport{Walker:VIXAlt:Oct2026,
     author      =   {Todd B. Walker},
     title       =   {Beneath the VIX: Probability, Severity, and Uncertainty Shocks},
     year        =   {2026},
